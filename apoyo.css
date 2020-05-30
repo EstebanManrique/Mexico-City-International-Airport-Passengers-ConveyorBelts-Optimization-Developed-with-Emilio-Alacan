@@ -1,0 +1,79 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Fira+Sans+Condensed:wght@200&display=swap');
+body {
+    font-family: Open Sans;
+    margin: 0px;
+}
+
+h1 {
+    font-family: 'Fira Sans Condensed', sans-serif;
+    font-size: 40px;
+    color: #333;
+    font-weight: 600;
+    letter-spacing: -3px;
+    text-align: center;
+}
+
+h2 {
+    font-family: 'Fira Sans Condensed', sans-serif;
+    font-size: 32px;
+    color: #444;
+    font-weight: 600;
+    letter-spacing: -2px;
+}
+
+.cabecera {
+    background-color: #000000;
+    min-height: 10px;
+    text-align: center;
+}
+
+.cabecera a img {
+    margin: 0px 0px;
+}
+ 
+.cuerpo {
+    max-width: 1100px;
+    padding: 20px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.contenido {
+    float: left;
+    font-family: 'Fira Sans Condensed', sans-serif;
+    width: 65%;
+    text-align: justify;
+}
+
+.contenido img {
+    width: 100%;
+    text-align: left;
+}
+
+.izquierda {
+    padding-top: 200px;
+    font-family: 'Fira Sans Condensed', sans-serif;
+    font-size: 40px;
+    padding-top: 200px;
+    margin-top: 150px;
+    float: right;
+    width: 20%;
+}
+
+.izquierda h3 {
+    color: #444;
+    text-align: left;
+    font-family: 'Fira Sans Condensed', sans-serif;
+
+}
+
+.creditos {
+    clear: both;
+    color: white;
+    background-color: rgb(13, 65, 26);
+    min-height: 100px;
+    padding: 10px;
+    text-align: center;
+    font-family: 'Fira Sans Condensed', sans-serif;
+}
